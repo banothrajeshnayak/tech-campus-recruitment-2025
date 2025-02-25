@@ -15,10 +15,10 @@ The chosen solution was to use a simple file stream method to read the log file 
 
 **Steps to Run**:
 
-1. **Save the Code**: Save the provided C++ code in a file named `extract_logs.cpp` and place it in `C:\Users\Karthik\tech-campus-recruitment-2025\src`.
-2. **Open Command Prompt**: Open the command prompt and navigate to the directory `C:\Users\Karthik\tech-campus-recruitment-2025\src` using the following command:
+1. **Save the Code**: Save the provided C++ code in a file named `extract_logs.cpp` and place it in `C:\Users\Rajesh\tech-campus-recruitment-2025\src`.
+2. **Open Command Prompt**: Open the command prompt and navigate to the directory `C:\Users\Rajesh\tech-campus-recruitment-2025\src` using the following command:
    ```sh
-   cd C:\Users\Karthik\tech-campus-recruitment-2025\src
+   cd C:\Users\Rajesh\tech-campus-recruitment-2025\src
    ```
 3. **Compile the Code**: Compile the C++ code using the following command:
    ```sh
@@ -30,4 +30,4 @@ The chosen solution was to use a simple file stream method to read the log file 
    ./extract_logs 2024-12-01
    ```
 
-5. **Output**: The log entries for the specified date will be saved to a file named `output/output_2024-12-01.txt` in the `C:\Users\Karthik\tech-campus-recruitment-2025\output` directory.
+5. **Output**: The log entries for the specified date will be saved to a file named `output/output_2024-12-01.txt` in the `C:\Users\Rajesh\tech-campus-recruitment-2025\output` directory.
